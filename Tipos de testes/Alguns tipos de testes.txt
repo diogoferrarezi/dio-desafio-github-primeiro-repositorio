@@ -1,2 +1,4 @@
 Link importante para tipos de testes https://blog.onedaytesting.com.br/testes-de-performance/
 Esse tipo de teste verifica a capacidade que um software resiste
+Link de testes funcional e não funcional https://eiti.com.br/testes-funcionais-e-nao-funcionais/
+Esse tipo de teste verifica o funcionamento da solução está de acordo com o planejado. Para isso, são realizados testes funcionais e não funcionais.
