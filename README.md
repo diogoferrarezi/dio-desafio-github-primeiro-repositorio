@@ -2,4 +2,4 @@
 Repositório Criado para o Desafio de Projeto
 
 ## Links Úteis
-[Todos os tipos de Testes](https://www.atlassian.com/br/continuous-delivery/software-testing/types-of-software-testing)
+[Todos os tipos de Testes de Software](https://www.atlassian.com/br/continuous-delivery/software-testing/types-of-software-testing)
