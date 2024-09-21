@@ -1,0 +1,2 @@
+Link importante para tipos de testes https://blog.onedaytesting.com.br/testes-de-performance/
+Esse tipo de teste verifica a capacidade que um software resiste
